@@ -1,0 +1,515 @@
+{
+  "characters": {
+    "upper_A": [
+      "upper_A_0.png",
+      "upper_A_1.png",
+      "upper_A_2.png",
+      "upper_A_3.png"
+    ],
+    "upper_B": [
+      "upper_B_0.png",
+      "upper_B_1.png",
+      "upper_B_2.png",
+      "upper_B_3.png"
+    ],
+    "upper_C": [
+      "upper_C_0.png",
+      "upper_C_1.png",
+      "upper_C_2.png",
+      "upper_C_3.png"
+    ],
+    "upper_D": [
+      "upper_D_0.png",
+      "upper_D_1.png",
+      "upper_D_2.png",
+      "upper_D_3.png"
+    ],
+    "upper_E": [
+      "upper_E_0.png",
+      "upper_E_1.png",
+      "upper_E_2.png",
+      "upper_E_3.png"
+    ],
+    "upper_F": [
+      "upper_F_0.png",
+      "upper_F_1.png",
+      "upper_F_2.png",
+      "upper_F_3.png"
+    ],
+    "upper_G": [
+      "upper_G_0.png",
+      "upper_G_1.png",
+      "upper_G_2.png",
+      "upper_G_3.png"
+    ],
+    "upper_H": [
+      "upper_H_0.png",
+      "upper_H_1.png",
+      "upper_H_2.png",
+      "upper_H_3.png"
+    ],
+    "upper_I": [
+      "upper_I_0.png",
+      "upper_I_1.png",
+      "upper_I_2.png",
+      "upper_I_3.png"
+    ],
+    "upper_J": [
+      "upper_J_0.png",
+      "upper_J_1.png",
+      "upper_J_2.png",
+      "upper_J_3.png"
+    ],
+    "upper_K": [
+      "upper_K_0.png",
+      "upper_K_1.png",
+      "upper_K_2.png",
+      "upper_K_3.png"
+    ],
+    "upper_L": [
+      "upper_L_0.png",
+      "upper_L_1.png",
+      "upper_L_2.png",
+      "upper_L_3.png"
+    ],
+    "upper_M": [
+      "upper_M_0.png",
+      "upper_M_1.png",
+      "upper_M_2.png",
+      "upper_M_3.png"
+    ],
+    "upper_N": [
+      "upper_N_0.png",
+      "upper_N_1.png",
+      "upper_N_2.png",
+      "upper_N_3.png"
+    ],
+    "upper_O": [
+      "upper_O_0.png",
+      "upper_O_1.png",
+      "upper_O_2.png",
+      "upper_O_3.png"
+    ],
+    "upper_P": [
+      "upper_P_0.png",
+      "upper_P_1.png",
+      "upper_P_2.png",
+      "upper_P_3.png"
+    ],
+    "upper_Q": [
+      "upper_Q_0.png",
+      "upper_Q_1.png",
+      "upper_Q_2.png",
+      "upper_Q_3.png"
+    ],
+    "upper_R": [
+      "upper_R_0.png",
+      "upper_R_1.png",
+      "upper_R_2.png",
+      "upper_R_3.png"
+    ],
+    "upper_S": [
+      "upper_S_0.png",
+      "upper_S_1.png",
+      "upper_S_2.png",
+      "upper_S_3.png"
+    ],
+    "upper_T": [
+      "upper_T_0.png",
+      "upper_T_1.png",
+      "upper_T_2.png",
+      "upper_T_3.png"
+    ],
+    "upper_U": [
+      "upper_U_0.png",
+      "upper_U_1.png",
+      "upper_U_2.png",
+      "upper_U_3.png"
+    ],
+    "upper_V": [
+      "upper_V_0.png",
+      "upper_V_1.png",
+      "upper_V_2.png",
+      "upper_V_3.png"
+    ],
+    "upper_W": [
+      "upper_W_0.png",
+      "upper_W_1.png",
+      "upper_W_2.png",
+      "upper_W_3.png"
+    ],
+    "upper_X": [
+      "upper_X_0.png",
+      "upper_X_1.png",
+      "upper_X_2.png",
+      "upper_X_3.png"
+    ],
+    "upper_Y": [
+      "upper_Y_0.png",
+      "upper_Y_1.png",
+      "upper_Y_2.png",
+      "upper_Y_3.png"
+    ],
+    "upper_Z": [
+      "upper_Z_0.png",
+      "upper_Z_1.png",
+      "upper_Z_2.png",
+      "upper_Z_3.png"
+    ],
+    "lower_a": [
+      "lower_a_0.png",
+      "lower_a_1.png",
+      "lower_a_2.png",
+      "lower_a_3.png"
+    ],
+    "lower_b": [
+      "lower_b_0.png",
+      "lower_b_1.png",
+      "lower_b_2.png",
+      "lower_b_3.png"
+    ],
+    "lower_c": [
+      "lower_c_0.png",
+      "lower_c_1.png",
+      "lower_c_2.png",
+      "lower_c_3.png"
+    ],
+    "lower_d": [
+      "lower_d_0.png",
+      "lower_d_1.png",
+      "lower_d_2.png",
+      "lower_d_3.png"
+    ],
+    "lower_e": [
+      "lower_e_0.png",
+      "lower_e_1.png",
+      "lower_e_2.png",
+      "lower_e_3.png"
+    ],
+    "lower_f": [
+      "lower_f_0.png",
+      "lower_f_1.png",
+      "lower_f_2.png",
+      "lower_f_3.png"
+    ],
+    "lower_g": [
+      "lower_g_0.png",
+      "lower_g_1.png",
+      "lower_g_2.png",
+      "lower_g_3.png"
+    ],
+    "lower_h": [
+      "lower_h_0.png",
+      "lower_h_1.png",
+      "lower_h_2.png",
+      "lower_h_3.png"
+    ],
+    "lower_i": [
+      "lower_i_0.png",
+      "lower_i_1.png",
+      "lower_i_2.png",
+      "lower_i_3.png"
+    ],
+    "lower_j": [
+      "lower_j_0.png",
+      "lower_j_1.png",
+      "lower_j_2.png",
+      "lower_j_3.png"
+    ],
+    "lower_k": [
+      "lower_k_0.png",
+      "lower_k_1.png",
+      "lower_k_2.png",
+      "lower_k_3.png"
+    ],
+    "lower_l": [
+      "lower_l_0.png",
+      "lower_l_1.png",
+      "lower_l_2.png",
+      "lower_l_3.png"
+    ],
+    "lower_m": [
+      "lower_m_0.png",
+      "lower_m_1.png",
+      "lower_m_2.png",
+      "lower_m_3.png"
+    ],
+    "lower_n": [
+      "lower_n_0.png",
+      "lower_n_1.png",
+      "lower_n_2.png",
+      "lower_n_3.png"
+    ],
+    "lower_o": [
+      "lower_o_0.png",
+      "lower_o_1.png",
+      "lower_o_2.png",
+      "lower_o_3.png"
+    ],
+    "lower_p": [
+      "lower_p_0.png",
+      "lower_p_1.png",
+      "lower_p_2.png",
+      "lower_p_3.png"
+    ],
+    "lower_q": [
+      "lower_q_0.png",
+      "lower_q_1.png",
+      "lower_q_2.png",
+      "lower_q_3.png"
+    ],
+    "lower_r": [
+      "lower_r_0.png",
+      "lower_r_1.png",
+      "lower_r_2.png",
+      "lower_r_3.png"
+    ],
+    "lower_s": [
+      "lower_s_0.png",
+      "lower_s_1.png",
+      "lower_s_2.png",
+      "lower_s_3.png"
+    ],
+    "lower_t": [
+      "lower_t_0.png",
+      "lower_t_1.png",
+      "lower_t_2.png",
+      "lower_t_3.png"
+    ],
+    "lower_u": [
+      "lower_u_0.png",
+      "lower_u_1.png",
+      "lower_u_2.png",
+      "lower_u_3.png"
+    ],
+    "lower_v": [
+      "lower_v_0.png",
+      "lower_v_1.png",
+      "lower_v_2.png",
+      "lower_v_3.png"
+    ],
+    "lower_w": [
+      "lower_w_0.png",
+      "lower_w_1.png",
+      "lower_w_2.png",
+      "lower_w_3.png"
+    ],
+    "lower_x": [
+      "lower_x_0.png",
+      "lower_x_1.png",
+      "lower_x_2.png",
+      "lower_x_3.png"
+    ],
+    "lower_y": [
+      "lower_y_0.png",
+      "lower_y_1.png",
+      "lower_y_2.png",
+      "lower_y_3.png"
+    ],
+    "lower_z": [
+      "lower_z_0.png",
+      "lower_z_1.png",
+      "lower_z_2.png",
+      "lower_z_3.png"
+    ],
+    "digit_0": [
+      "digit_0_0.png",
+      "digit_0_1.png",
+      "digit_0_2.png",
+      "digit_0_3.png"
+    ],
+    "digit_1": [
+      "digit_1_0.png",
+      "digit_1_1.png",
+      "digit_1_2.png",
+      "digit_1_3.png"
+    ],
+    "digit_2": [
+      "digit_2_0.png",
+      "digit_2_1.png",
+      "digit_2_2.png",
+      "digit_2_3.png"
+    ],
+    "digit_3": [
+      "digit_3_0.png",
+      "digit_3_1.png",
+      "digit_3_2.png",
+      "digit_3_3.png"
+    ],
+    "digit_4": [
+      "digit_4_0.png",
+      "digit_4_1.png",
+      "digit_4_2.png",
+      "digit_4_3.png"
+    ],
+    "digit_5": [
+      "digit_5_0.png",
+      "digit_5_1.png",
+      "digit_5_2.png",
+      "digit_5_3.png"
+    ],
+    "digit_6": [
+      "digit_6_0.png",
+      "digit_6_1.png",
+      "digit_6_2.png",
+      "digit_6_3.png"
+    ],
+    "digit_7": [
+      "digit_7_0.png",
+      "digit_7_1.png",
+      "digit_7_2.png",
+      "digit_7_3.png"
+    ],
+    "digit_8": [
+      "digit_8_0.png",
+      "digit_8_1.png",
+      "digit_8_2.png",
+      "digit_8_3.png"
+    ],
+    "digit_9": [
+      "digit_9_0.png",
+      "digit_9_1.png",
+      "digit_9_2.png",
+      "digit_9_3.png"
+    ],
+    "period": [
+      "period_0.png",
+      "period_1.png",
+      "period_2.png",
+      "period_3.png"
+    ],
+    "comma": [
+      "comma_0.png",
+      "comma_1.png",
+      "comma_2.png",
+      "comma_3.png"
+    ],
+    "colon": [
+      "colon_0.png",
+      "colon_1.png",
+      "colon_2.png",
+      "colon_3.png"
+    ],
+    "semicolon": [
+      "semicolon_0.png",
+      "semicolon_1.png",
+      "semicolon_2.png",
+      "semicolon_3.png"
+    ],
+    "apostrophe": [
+      "apostrophe_0.png",
+      "apostrophe_1.png",
+      "apostrophe_2.png",
+      "apostrophe_3.png"
+    ],
+    "dquote": [
+      "dquote_0.png",
+      "dquote_1.png",
+      "dquote_2.png",
+      "dquote_3.png"
+    ],
+    "lparen": [
+      "lparen_0.png",
+      "lparen_1.png",
+      "lparen_2.png",
+      "lparen_3.png"
+    ],
+    "rparen": [
+      "rparen_0.png",
+      "rparen_1.png",
+      "rparen_2.png",
+      "rparen_3.png"
+    ],
+    "question": [
+      "question_0.png",
+      "question_1.png",
+      "question_2.png",
+      "question_3.png"
+    ],
+    "exclaim": [
+      "exclaim_0.png",
+      "exclaim_1.png",
+      "exclaim_2.png",
+      "exclaim_3.png"
+    ],
+    "hyphen": [
+      "hyphen_0.png",
+      "hyphen_1.png",
+      "hyphen_2.png",
+      "hyphen_3.png"
+    ],
+    "underscore": [
+      "underscore_0.png",
+      "underscore_1.png",
+      "underscore_2.png",
+      "underscore_3.png"
+    ],
+    "amp": [
+      "amp_0.png",
+      "amp_1.png",
+      "amp_2.png",
+      "amp_3.png"
+    ],
+    "at": [
+      "at_0.png",
+      "at_1.png",
+      "at_2.png",
+      "at_3.png"
+    ],
+    "hash": [
+      "hash_0.png",
+      "hash_1.png",
+      "hash_2.png",
+      "hash_3.png"
+    ],
+    "slash": [
+      "slash_0.png",
+      "slash_1.png",
+      "slash_2.png",
+      "slash_3.png"
+    ],
+    "backslash": [
+      "backslash_0.png",
+      "backslash_1.png",
+      "backslash_2.png",
+      "backslash_3.png"
+    ],
+    "plus": [
+      "plus_0.png",
+      "plus_1.png",
+      "plus_2.png",
+      "plus_3.png"
+    ],
+    "equals": [
+      "equals_0.png",
+      "equals_1.png",
+      "equals_2.png",
+      "equals_3.png"
+    ],
+    "asterisk": [
+      "asterisk_0.png",
+      "asterisk_1.png",
+      "asterisk_2.png",
+      "asterisk_3.png"
+    ],
+    "percent": [
+      "percent_0.png",
+      "percent_1.png",
+      "percent_2.png",
+      "percent_3.png"
+    ],
+    "arrow": [
+      "arrow_0.png",
+      "arrow_1.png",
+      "arrow_2.png",
+      "arrow_3.png"
+    ],
+    "fatarrow": [
+      "fatarrow_0.png",
+      "fatarrow_1.png",
+      "fatarrow_2.png",
+      "fatarrow_3.png"
+    ]
+  },
+  "warnings": []
+}

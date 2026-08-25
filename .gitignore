@@ -16,11 +16,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Personal handwriting data -- segmented glyph images derived from your own
-# handwriting, not source code. Keep this local.
-inkwell/profiles/*/
-!inkwell/profiles/.gitkeep
-
 # Generated/scratch output from using the app (scans, sample notes, filled
 # templates) -- these are your test artifacts, not project source.
 handwriting_templates/
