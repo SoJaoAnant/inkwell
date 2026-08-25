@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Personal handwriting data -- segmented glyph images derived from your own
+# handwriting, not source code. Keep this local.
+inkwell/profiles/*/
+!inkwell/profiles/.gitkeep
+
+# Generated/scratch output from using the app (scans, sample notes, filled
+# templates) -- these are your test artifacts, not project source.
+handwriting_templates/
+template_pages/
+inkwell_template.pdf
+test_note_1.pdf
+sample_text.txt
